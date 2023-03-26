@@ -1,4 +1,0 @@
-export * from './lib/back-ng.service';
-export * from './lib/back-ng.directive';
-export * from './lib/back-ng.module';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2JhY2stbmcvc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsY0FBYyx1QkFBdUIsQ0FBQTtBQUNyQyxjQUFjLHlCQUF5QixDQUFBO0FBQ3ZDLGNBQWMsc0JBQXNCLENBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgKiBmcm9tICcuL2xpYi9iYWNrLW5nLnNlcnZpY2UnXG5leHBvcnQgKiBmcm9tICcuL2xpYi9iYWNrLW5nLmRpcmVjdGl2ZSdcbmV4cG9ydCAqIGZyb20gJy4vbGliL2JhY2stbmcubW9kdWxlJyJdfQ==
