@@ -1,27 +1,67 @@
-# BackNG
+<a name="readme-top"></a>
+<div align="center">
+    <!-- CONTRIBUTORS -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/graphs/contributors">
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ElCapitanSponge/BackNG">
+    </a>
+    <!-- FORKS -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/network/members">
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/ElCapitanSponge/BackNG">
+    </a>
+    <!-- STARS -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/stargazers">
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ElCapitanSponge/BackNG">
+    </a>
+    <!-- ISSUES -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/issues">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/ElCapitanSponge/BackNG">
+    </a>
+    <!-- PULL REQUESTS -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/pulls">
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ElCapitanSponge/BackNG">
+    </a>
+    <!-- LICENSE -->
+    <a href="https://github.com/ElCapitanSponge/BackNG/blob/master/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/ElCapitanSponge/BackNG">
+    </a>
+</div>
+<br />
+<div align="center">
+    <h1 align="center">
+        BackNG
+    </h1>
+    <h4 align="center">
+        Dynamic back navigation supporting web history within angular
+    </h4>
+    <a href="https://github.com/ElCapitanSponge/BackNG/issues/new">Report Bug</a>
+    ·
+    <a href="https://github.com/ElCapitanSponge/BackNG/issues/new">Request Feature</a>
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+<!-- ABOUT THE PROJECT -->
+# About The Project
 
-## Development server
+This was born out of the desire to have a robust utility that handles the back navigation within angular applications.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<!-- ROADMAP -->
+# Roadmap
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+See the [open issues](https://github.com/ElCapitanSponge/BackNG/issues) for a full list of proposed features (and known issues).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Build
+<!-- CODE_OF_CONDUCT -->
+# Code of Conduct
+See [`CODE_OF_CONDUCT`](https://github.com/ElCapitanSponge/BackNG/blob/main/CODE_OF_CONDUCT.md) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<!-- CONTRIBUTING -->
+# Contributing
+See [`CONTRIBUTING`](https://github.com/ElCapitanSponge/BackNG/blob/main/CONTRIBUTING.md) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<!-- LICENSE -->
+# License
+Distributed under the Apache-2.0 License. See [`LICENSE`](https://github.com/ElCapitanSponge/BackNG/blob/main/LICENSE) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
