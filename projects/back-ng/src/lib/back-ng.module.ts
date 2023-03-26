@@ -1,16 +1,20 @@
 import { NgModule } from '@angular/core';
-import { BackNGComponent } from './back-ng.component';
+import { BackNGDirective } from './back-ng.directive';
 
-
-
+/**
+ * BackNG Module
+ * 
+ * @export
+ * @class BackNGModule
+ */
 @NgModule({
   declarations: [
-    BackNGComponent
+    BackNGDirective
   ],
   imports: [
   ],
   exports: [
-    BackNGComponent
+    BackNGDirective
   ]
 })
 export class BackNGModule { }
