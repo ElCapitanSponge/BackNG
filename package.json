@@ -1,6 +1,6 @@
 {
 	"name": "back-ng",
-	"version": "0.1.1",
+	"version": "1.0.1",
 	"description": "Dynamic back navigation supporting web history within angular",
 	"author": "Andrew Brunker <andrew@brunker.au>",
 	"license": "Apache-2.0",
@@ -14,7 +14,10 @@
 		"build": "ng build",
 		"watch": "ng build --watch --configuration development",
 		"test": "ng test",
-		"package": "npm pack ./dist --pack-destination releases"
+		"package": "npm pack ./dist --pack-destination releases",
+		"docs": "compodoc -p tsconfig.doc.json -n \"BackNG Documentation\" -d ./docs --disableSourceCode --disableTemplateTab --disableStyleTab --disableDomTree --hideGenerator --disableCoverage",
+		"docs:development": "compodoc -p tsconfig.doc.json -n \"BackNG Documentation\" -d ./dev-docs",
+		"changelog": "changelog generate"
 	},
 	"dependencies": {
 		"@angular/animations": "^15.2.0",
@@ -33,7 +36,9 @@
 		"@angular-devkit/build-angular": "^15.2.4",
 		"@angular/cli": "~15.2.4",
 		"@angular/compiler-cli": "^15.2.0",
+		"@compodoc/compodoc": "^1.1.19",
 		"@types/jasmine": "~4.3.0",
+		"generate-changelog": "^1.8.0",
 		"jasmine-core": "~4.5.0",
 		"karma": "~6.4.0",
 		"karma-chrome-launcher": "~3.1.0",

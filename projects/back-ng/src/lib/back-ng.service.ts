@@ -16,15 +16,15 @@ export class BackNGService {
    * The stack of the route based history
    * 
    * @private
-   * @type {string[]}
+   * @type {string[]} Stack containing the route history
    * @memberOf BackNGService
    */
   private past_stack: string[]
 
   /**
    * Creates an instance of BackNGService.
-   * @param {Router} router 
-   * @param {Location} location 
+   * @param {Router} router Angular routing service
+   * @param {Location} location Interface for the browsers location service
    * 
    * @memberOf BackNGService
    */
