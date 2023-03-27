@@ -1,3 +1,14 @@
+#### 1.0.1 (2023-03-27)
+
+##### Chores
+
+*  update versioning to 1.0.1 ([b3321079](https://github.com/ElCapitanSponge/BackNG/commit/b3321079ddb7efe2bb3dc379664bbd35db1f4ef8))
+
+##### Documentation Changes
+
+*  further changes to npmignore ([236e4a89](https://github.com/ElCapitanSponge/BackNG/commit/236e4a89fd2148d4ff3018ee3e87391624d6bddb))
+*  update the npmignore ([9b580b4f](https://github.com/ElCapitanSponge/BackNG/commit/9b580b4f8a9b90c50cc5361a65b74c0364f7da79))
+
 #### 1.0.0 (2023-03-27)
 
 ##### Chores
