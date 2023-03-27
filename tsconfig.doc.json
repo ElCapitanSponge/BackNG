@@ -1,0 +1,4 @@
+{
+    "include": ["projects/back-ng/src/**/*.ts"],
+    "exclude": ["projects/back-ng/src/test.ts", "projects/back-ng/src/**/*.spec.ts"]
+}
