@@ -16,7 +16,8 @@
 		"test": "ng test",
 		"package": "npm pack ./dist --pack-destination releases",
 		"docs": "compodoc -p tsconfig.doc.json -n \"BackNG Documentation\" -d ./docs --disableSourceCode --disableTemplateTab --disableStyleTab --disableDomTree --hideGenerator --disableCoverage",
-		"docs:development": "compodoc -p tsconfig.doc.json -n \"BackNG Documentation\" -d ./dev-docs"
+		"docs:development": "compodoc -p tsconfig.doc.json -n \"BackNG Documentation\" -d ./dev-docs",
+		"changelog": "changelog generate"
 	},
 	"dependencies": {
 		"@angular/animations": "^15.2.0",
