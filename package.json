@@ -1,6 +1,6 @@
 {
 	"name": "back-ng",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Dynamic back navigation supporting web history within angular",
 	"author": "Andrew Brunker <andrew@brunker.au>",
 	"license": "Apache-2.0",
