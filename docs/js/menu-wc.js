@@ -62,8 +62,8 @@ customElements.define('compodoc-menu', class extends HTMLElement {
                 </li>
                     <li class="chapter modules">
                         <a data-type="chapter-link" href="modules.html">
-                            <div class="menu-toggler linked" data-toggle="collapse" ${ isNormalMode ?
-                                'data-target="#modules-links"' : 'data-target="#xs-modules-links"' }>
+                            <div class="menu-toggler linked" data-bs-toggle="collapse" ${ isNormalMode ?
+                                'data-bs-target="#modules-links"' : 'data-bs-target="#xs-modules-links"' }>
                                 <span class="icon ion-ios-archive"></span>
                                 <span class="link-name">Modules</span>
                                 <span class="icon ion-ios-arrow-down"></span>
@@ -73,8 +73,8 @@ customElements.define('compodoc-menu', class extends HTMLElement {
                             <li class="link">
                                 <a href="modules/BackNGModule.html" data-type="entity-link" >BackNGModule</a>
                                 <li class="chapter inner">
-                                    <div class="simple menu-toggler" data-toggle="collapse" ${ isNormalMode ?
-                                        'data-target="#directives-links-module-BackNGModule-080ce588432f198538826934090dd4564e96b2af9082271fb894a988245a204f6401715998078f9abcccf964c6e7000dfca747aab7c7063c7f18bfb8f3c03787"' : 'data-target="#xs-directives-links-module-BackNGModule-080ce588432f198538826934090dd4564e96b2af9082271fb894a988245a204f6401715998078f9abcccf964c6e7000dfca747aab7c7063c7f18bfb8f3c03787"' }>
+                                    <div class="simple menu-toggler" data-bs-toggle="collapse" ${ isNormalMode ?
+                                        'data-bs-target="#directives-links-module-BackNGModule-080ce588432f198538826934090dd4564e96b2af9082271fb894a988245a204f6401715998078f9abcccf964c6e7000dfca747aab7c7063c7f18bfb8f3c03787"' : 'data-bs-target="#xs-directives-links-module-BackNGModule-080ce588432f198538826934090dd4564e96b2af9082271fb894a988245a204f6401715998078f9abcccf964c6e7000dfca747aab7c7063c7f18bfb8f3c03787"' }>
                                         <span class="icon ion-md-code-working"></span>
                                         <span>Directives</span>
                                         <span class="icon ion-ios-arrow-down"></span>
@@ -90,8 +90,8 @@ customElements.define('compodoc-menu', class extends HTMLElement {
                 </ul>
                 </li>
                         <li class="chapter">
-                            <div class="simple menu-toggler" data-toggle="collapse" ${ isNormalMode ? 'data-target="#injectables-links"' :
-                                'data-target="#xs-injectables-links"' }>
+                            <div class="simple menu-toggler" data-bs-toggle="collapse" ${ isNormalMode ? 'data-bs-target="#injectables-links"' :
+                                'data-bs-target="#xs-injectables-links"' }>
                                 <span class="icon ion-md-arrow-round-down"></span>
                                 <span>Injectables</span>
                                 <span class="icon ion-ios-arrow-down"></span>
