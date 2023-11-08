@@ -1,3 +1,13 @@
+#### 1.2.0 (2023-11-08)
+
+##### Build System / Dependencies
+
+*  convert from npm to pnpm ([84b88487](https://github.com/ElCapitanSponge/BackNG/commit/84b884870e6315265606ea01b4d55ea1869110b9))
+
+##### Chores
+
+*  Update to angular 17 ([9d6aa17c](https://github.com/ElCapitanSponge/BackNG/commit/9d6aa17c4e79841756ffd76e80e7b0963f42c191))
+
 #### 1.1.0 (2023-06-08)
 
 #### 1.0.1 (2023-03-27)
